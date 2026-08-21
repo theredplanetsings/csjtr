@@ -2,8 +2,6 @@
 
 Built with HTML, CSS, and JavaScript featuring an interactive Three.js background.
 
-**Site:** https://theredplanetsings.github.io/csjtrutherford/
-
 ## Project Structure
 
 ```
