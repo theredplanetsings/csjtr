@@ -1,7 +1,5 @@
 # Personal Portfolio
 
-Portfolio website showcasing academic achievements, technical skills, and professional experience of a Computer Science student with interests in national security, quantitative finance, and open-source intelligence (OSINT).
-
 Built with HTML, CSS, and JavaScript featuring an interactive Three.js background.
 
 **Site:** https://theredplanetsings.github.io/csjtrutherford/
