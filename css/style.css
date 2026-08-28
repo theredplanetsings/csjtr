@@ -41,6 +41,18 @@ body::-webkit-scrollbar {
     scrollbar-width: none;
 }
 
+#education,
+#education *,
+#experience,
+#experience *,
+#projects,
+#projects * {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
